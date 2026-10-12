@@ -1,7 +1,7 @@
 # 🌍 Natural Disaster
 [🇹🇷 Türkçe](#turkce) | [🇬🇧 English](#english)
 
-> 🚀 **Geliştirilmiş sürüm / Advanced version:** Veri denetimi, model karşılaştırması, kategori eşikleri ve web demo. [Türkçe](advanced/README.md#turkce) · [English](advanced/README.md#english)
+> 🚀 **[Natural Disaster — Advanced](advanced/README.md)**, bu projenin geliştirilmiş sürümüdür. / The enhanced version of this project. [Türkçe](advanced/README.md#turkce) · [English](advanced/README.md#english)
 
 <a id="turkce"></a>
 ### Bir mesaj, birden fazla ihtiyaç.

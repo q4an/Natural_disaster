@@ -2,6 +2,9 @@
 
 [🇹🇷 Türkçe](#turkce) | [🇬🇧 English](#english) · [İlk sürüm / Original project](../README.md)
 
+> Bu çalışma, **[Natural Disaster](../README.md)** projesinin geliştirilmiş sürümüdür.
+> This is the enhanced version of the **[Natural Disaster](../README.md)** project.
+
 <a id="turkce"></a>
 
 ## Bir mesajdan, daha bilinçli bir tahmine.
