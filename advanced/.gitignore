@@ -1,0 +1,34 @@
+# Local datasets and trained artifacts
+data/
+models/
+*.joblib
+*.pkl
+*.db
+*.sqlite
+*.sqlite3
+
+# Reports containing raw messages or local execution details
+reports/run_*/quarantine.csv
+reports/run_*/validation_errors.csv
+reports/run_*/split_manifest.csv
+reports/run_*/source_snapshot/
+*.log
+
+# Environments, caches and editor files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.tmp
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini

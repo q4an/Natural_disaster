@@ -1,0 +1,18 @@
+{
+  "default_0_5": {
+    "micro_f1": 0.6606116511743418,
+    "macro_f1": 0.3312083027425182,
+    "micro_precision": 0.8073887780764895,
+    "micro_recall": 0.558991293905734,
+    "hamming_loss": 0.05270233045011294,
+    "subset_accuracy": 0.28769764751253374
+  },
+  "frozen_thresholds": {
+    "micro_f1": 0.6769420468557337,
+    "macro_f1": 0.4755745386123879,
+    "micro_precision": 0.6623197564198311,
+    "micro_recall": 0.6922245571900331,
+    "hamming_loss": 0.06062475896644813,
+    "subset_accuracy": 0.23736984188198998
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "run_id": "run_20261005T145652_150141Z",
+  "model": "models/run_20261005T145652_150141Z/bundle.joblib",
+  "report": "reports/run_20261005T145652_150141Z",
+  "model_sha256": "498c4ff9fb4529cfaf3a56ad22572484974e828f6259c131cffd5d6a00be6314",
+  "selected_model": "logistic_c4",
+  "elapsed_seconds": 198.66047069999968
+}

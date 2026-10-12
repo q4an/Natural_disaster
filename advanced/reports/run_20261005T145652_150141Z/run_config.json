@@ -1,0 +1,52 @@
+{
+  "run_id": "run_20261005T145652_150141Z",
+  "created_utc": "2026-10-05T14:56:56.621101+00:00",
+  "seed": 42,
+  "data_policy": "2.0",
+  "source_sha256": {
+    "messages": "8b7ea9553b7d672fba286c04d7824e6360e8c4717dace7e9b60bc888475b9dd3",
+    "categories": "6f0676c65bb40756ca48b4a807803e4fb3bcef6360324efae00c90d21d6251e9"
+  },
+  "code_sha256": {
+    "data_quality.py": "cf27305b499754e66a10785848cc1a6dea29b78db288c7fec1635f6d84a9de67",
+    "evaluation.py": "44a212924e70670ef27ffdd94e891844234a7349707a9619f228a673e5af11f4",
+    "experiment.py": "888bc9a334736cf123195b6de43be12f1fddf54695247adc42f16ccffb8f0c27",
+    "predict_messaje.py": "2261305c35ac422a45671b983b2b5fddd5aa3029dc177ebd7f2bb7fea17858e6",
+    "procces_data.py": "0bb799ca7f0dee263bc91106ba0930bbe70eb036d09ceb3528aaef49b3065c31",
+    "test.py": "1ecf611aa78c78cfc069b0ff20e7930963d84900a368a7356c54158281108a07",
+    "text_processing.py": "757c9b7358991e0ac348700c9a4eec75241f1eec3f5dfae9a46612c9dc1029c7",
+    "train_data.py": "0afa333e16d12debe4393c0b403ff2fe77b2cc301d2fc22a98484efc8e1627b5"
+  },
+  "python": "3.13.9",
+  "packages": {
+    "numpy": "2.5.2",
+    "pandas": "3.0.5",
+    "scikit-learn": "1.9.0",
+    "xgboost": "3.4.1",
+    "joblib": "1.6.0",
+    "matplotlib": "3.11.1"
+  },
+  "candidates": {
+    "dummy": "DummyClassifier(strategy='most_frequent')",
+    "logistic_c1": "Pipeline(steps=[('tfidf',\n                 TfidfVectorizer(max_features=12000, min_df=2,\n                                 ngram_range=(1, 2), sublinear_tf=True)),\n                ('clf',\n                 OneVsRestClassifier(estimator=LogisticRegression(max_iter=500,\n                                                                  random_state=42,\n                                                                  solver='liblinear'),\n                                     n_jobs=1))])",
+    "logistic_c4": "Pipeline(steps=[('tfidf',\n                 TfidfVectorizer(max_features=12000, min_df=2,\n                                 ngram_range=(1, 2), sublinear_tf=True)),\n                ('clf',\n                 OneVsRestClassifier(estimator=LogisticRegression(C=4.0,\n                                                                  max_iter=500,\n                                                                  random_state=42,\n                                                                  solver='liblinear'),\n                                     n_jobs=1))])",
+    "xgboost_depth4": "Pipeline(steps=[('tfidf',\n                 TfidfVectorizer(max_features=12000, min_df=2,\n                                 ngram_range=(1, 2), sublinear_tf=True)),\n                ('clf',\n                 MultiOutputClassifier(estimator=XGBClassifier(base_score=None,\n                                                               booster=None,\n                                                               callbacks=None,\n                                                               colsample_bylevel=None,\n                                                               colsample_bynode=None,\n                                                               colsample_bytree=0.75,\n                                                               device=None,\n                                                               early_stopping_rounds=None,\n                                                               enable_categorical=True,\n                                                               eval_metric='log...\n                                                               feature_weights=None,\n                                                               gamma=None,\n                                                               grow_policy=None,\n                                                               importance_type=None,\n                                                               interaction_constraints=None,\n                                                               learning_rate=0.1,\n                                                               max_bin=64,\n                                                               max_cat_threshold=None,\n                                                               max_cat_to_onehot=None,\n                                                               max_delta_step=None,\n                                                               max_depth=4,\n                                                               max_leaves=None,\n                                                               min_child_weight=None,\n                                                               missing=nan,\n                                                               monotone_constraints=None,\n                                                               multi_strategy=None,\n                                                               n_estimators=60,\n                                                               n_jobs=2,\n                                                               num_parallel_tree=None, ...),\n                                       n_jobs=1))])"
+  },
+  "hypotheses": {
+    "dummy": "Majority labels establish a no-text baseline.",
+    "logistic_c1": "Sparse lexical evidence can separate labels with a regularized linear model.",
+    "logistic_c4": "Weaker regularization can improve recall without an excessive train-validation gap.",
+    "xgboost_depth4": "Shallow boosted trees can improve on additive lexical evidence through interactions."
+  },
+  "selection_metric": "mean development CV micro-F1 at threshold 0.5",
+  "threshold_policy": "validation per-label F1; grid 0.05..0.95; >=20 positives and negatives; ties nearest 0.5",
+  "calibration": "not fitted; validation Brier and reliability diagnostics only",
+  "split_rows": {
+    "development": 15555,
+    "validation": 5185,
+    "test": 5186
+  },
+  "excluded_labels": [
+    "child_alone"
+  ]
+}

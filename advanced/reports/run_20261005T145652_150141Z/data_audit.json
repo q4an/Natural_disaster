@@ -1,0 +1,29 @@
+{
+  "policy_version": "2.0",
+  "raw_messages": 26248,
+  "raw_categories": 26248,
+  "exact_message_duplicates": 68,
+  "exact_category_duplicates": 32,
+  "raw_missing": {
+    "id": 0,
+    "message": 0,
+    "original": 16064,
+    "genre": 0
+  },
+  "conflicting_ids": 36,
+  "unmatched_message_ids": 0,
+  "unmatched_category_ids": 0,
+  "related_2_rows": 187,
+  "empty_messages": 1,
+  "conflicting_text_groups": 8,
+  "consistent_text_duplicates": 12,
+  "clean_rows": 25926,
+  "constant_labels": [
+    "child_alone"
+  ],
+  "quarantine_rows": 314,
+  "source_sha256": {
+    "messages": "8b7ea9553b7d672fba286c04d7824e6360e8c4717dace7e9b60bc888475b9dd3",
+    "categories": "6f0676c65bb40756ca48b4a807803e4fb3bcef6360324efae00c90d21d6251e9"
+  }
+}

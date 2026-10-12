@@ -1,0 +1,1051 @@
+label,feature,weight,direction
+related,earthquake,11.594261941926034,positive
+related,help,7.411789096750943,positive
+related,hurricane,6.14961774151931,positive
+related,flood,5.662637775131656,positive
+related,food,5.567520689220483,positive
+related,aid,5.561286645308883,positive
+related,the earthquake,5.557597302392814,positive
+related,tent,5.227339253027824,positive
+related,destroyed,5.202374409276948,positive
+related,victims,5.143214815342716,positive
+related,affected,5.052288755991011,positive
+related,water,4.939981260830921,positive
+related,storm,4.834772521938553,positive
+related,shelter,4.738283729592695,positive
+related,aftershocks,4.4550717148429895,positive
+related,job,-4.953630364436779,negative
+related,elections,-4.1453287723376135,negative
+related,visa,-3.8516356330129327,negative
+related,costs,-3.5284816103526317,negative
+related,political,-3.298687651236059,negative
+related,women,-3.209849667778392,negative
+related,production,-3.18210048319673,negative
+related,elected,-3.147796882330713,negative
+related,passport,-3.103902207219129,negative
+related,pay,-2.992535622136061,negative
+related,of water,-2.976127452222853,negative
+related,constitution,-2.9568972809156557,negative
+related,me find,-2.8757131939478806,negative
+related,didn find,-2.8533151226802733,negative
+related,prices,-2.8457657919932453,negative
+request,help,9.066571528196889,positive
+request,need,7.639013669795085,positive
+request,tent,5.740627133231427,positive
+request,food,5.61170759196032,positive
+request,hungry,5.071673752167997,positive
+request,victim,5.037945220397949,positive
+request,we,4.965781458352597,positive
+request,aid,4.934906744456799,positive
+request,needs,4.644270719409251,positive
+request,us,4.407324191549581,positive
+request,tents,4.404034139531858,positive
+request,leogane,4.388511243149396,positive
+request,needed,4.385036724141325,positive
+request,water,4.283385711432976,positive
+request,please,4.130483032687683,positive
+request,job,-5.102992222944456,negative
+request,santiago,-2.860043385801657,negative
+request,including,-2.822790566861435,negative
+request,work,-2.8115041204236935,negative
+request,news,-2.5397773831175763,negative
+request,were,-2.493499326238476,negative
+request,the us,-2.4107014680341647,negative
+request,need job,-2.38027453607155,negative
+request,one of,-2.358846807802198,negative
+request,frere,-2.2997790569364236,negative
+request,incomplete,-2.290440228294106,negative
+request,4636,-2.286843068019906,negative
+request,just,-2.2506117603753646,negative
+request,informations,-2.210840191019916,negative
+request,his,-2.191631326593167,negative
+offer,food,3.4760871617845313,positive
+offer,out food,2.8233060235424032,positive
+offer,meals,2.7121657823710343,positive
+offer,international,2.4359413953172373,positive
+offer,deliver,2.394642572728548,positive
+offer,donate,2.373520666727031,positive
+offer,help the,2.332714484534061,positive
+offer,let,2.299470924948593,positive
+offer,out,2.2664290441293935,positive
+offer,clothing,2.245887438016941,positive
+offer,can,2.1967371250305763,positive
+offer,happy to,2.1640979139172822,positive
+offer,items,2.1225721608574335,positive
+offer,distribute food,2.1100474045328337,positive
+offer,let me,2.030208571285722,positive
+offer,the,-2.1031387279778984,negative
+offer,for,-1.843720781010611,negative
+offer,you,-1.5853318668422327,negative
+offer,they,-1.493613388739447,negative
+offer,of,-1.3914889859632549,negative
+offer,in the,-1.3419263352960122,negative
+offer,us,-1.3169514987172428,negative
+offer,earthquake,-1.2726777990376117,negative
+offer,it,-1.2540927497483196,negative
+offer,of the,-1.2006908418272355,negative
+offer,we need,-1.1852993839968733,negative
+offer,is,-1.1795360362531555,negative
+offer,which,-1.1699295420979028,negative
+offer,find,-1.1405119283626153,negative
+offer,has,-1.1372477393271658,negative
+aid_related,food,8.564435251179544,positive
+aid_related,shelter,7.201176888879209,positive
+aid_related,dead,6.828309165627628,positive
+aid_related,aid,6.766216592708692,positive
+aid_related,help,6.673250744117989,positive
+aid_related,tent,6.63956585230844,positive
+aid_related,rescue,6.251656364409301,positive
+aid_related,shelters,5.679897780846225,positive
+aid_related,relief,5.347081733615731,positive
+aid_related,hungry,5.22835758702197,positive
+aid_related,refugees,5.16294376207061,positive
+aid_related,victims,5.0308063764578534,positive
+aid_related,tents,4.99053875092086,positive
+aid_related,water,4.907299401801431,positive
+aid_related,supplies,4.885719865371718,positive
+aid_related,job,-3.923989160582996,negative
+aid_related,incomplete,-3.032376968592591,negative
+aid_related,life,-2.837407747520955,negative
+aid_related,visa,-2.8344640873845157,negative
+aid_related,elections,-2.803214562607297,negative
+aid_related,development,-2.6218239867726636,negative
+aid_related,me find,-2.596619980708892,negative
+aid_related,stations,-2.5961036032033427,negative
+aid_related,strong,-2.5420915259806596,negative
+aid_related,santiago,-2.5275806194139654,negative
+aid_related,three,-2.5205299775585366,negative
+aid_related,information,-2.5012089710668737,negative
+aid_related,2nd,-2.489853169882779,negative
+aid_related,and or,-2.4749536597109274,negative
+aid_related,the areas,-2.428938911760274,negative
+medical_help,medical,9.180058293835126,positive
+medical_help,injured,6.61040458587561,positive
+medical_help,health,6.526070723675795,positive
+medical_help,hospital,5.799610807561881,positive
+medical_help,wounded,5.563050228706453,positive
+medical_help,medicine,5.522294213693347,positive
+medical_help,outbreak,5.214231419342589,positive
+medical_help,disease,5.20039080386403,positive
+medical_help,care,5.150583827985367,positive
+medical_help,doctors,4.992315942650824,positive
+medical_help,fever,4.639201817289085,positive
+medical_help,sick,4.594856905043494,positive
+medical_help,cases,4.36570191132595,positive
+medical_help,virus,3.867577588110153,positive
+medical_help,ebola,3.853546418832271,positive
+medical_help,three,-2.530300827290477,negative
+medical_help,times,-2.203973448309341,negative
+medical_help,job,-2.1708939150226603,negative
+medical_help,need food,-2.092462322766701,negative
+medical_help,21,-2.0464943420765307,negative
+medical_help,president,-2.043299622495355,negative
+medical_help,information,-2.0065463252801283,negative
+medical_help,said that,-1.9445435697886004,negative
+medical_help,our,-1.9426166539249712,negative
+medical_help,land,-1.9058627660101481,negative
+medical_help,money,-1.8928527939736242,negative
+medical_help,why,-1.8347762169714767,negative
+medical_help,enough,-1.7629582308083764,negative
+medical_help,of water,-1.7379944364299333,negative
+medical_help,the,-1.6634357428755078,negative
+medical_products,medicine,8.964465543524915,positive
+medical_products,supplies,7.471730576501343,positive
+medical_products,medicines,7.197685995038048,positive
+medical_products,hygiene,7.146860023163818,positive
+medical_products,medications,5.644584843659038,positive
+medical_products,health,5.529041575259701,positive
+medical_products,medical,5.512032853388065,positive
+medical_products,medication,5.351656619520052,positive
+medical_products,kits,5.163263312023586,positive
+medical_products,toiletries,4.472063957534124,positive
+medical_products,drugs,4.465402466203509,positive
+medical_products,soap,4.073579774503769,positive
+medical_products,diapers,4.050106782151644,positive
+medical_products,and to,4.000389266030224,positive
+medical_products,items,3.9503246921593855,positive
+medical_products,supplies hygiene,-2.1054356987278395,negative
+medical_products,field,-1.881556992688978,negative
+medical_products,help we,-1.739487013451611,negative
+medical_products,what,-1.7278437277841723,negative
+medical_products,information,-1.6816870023788493,negative
+medical_products,help us,-1.594825907793103,negative
+medical_products,job,-1.5445346720889064,negative
+medical_products,department,-1.5367634452533765,negative
+medical_products,the,-1.497299926711612,negative
+medical_products,his,-1.4808717464142611,negative
+medical_products,damaged,-1.4681174198165452,negative
+medical_products,service,-1.4624017583226088,negative
+medical_products,south,-1.4495375822449383,negative
+medical_products,police,-1.4407972212592868,negative
+medical_products,three,-1.4252632072071034,negative
+search_and_rescue,rescue,13.35315485443689,positive
+search_and_rescue,trapped,5.381909448394856,positive
+search_and_rescue,stranded,4.991708831092284,positive
+search_and_rescue,search,4.474430587526204,positive
+search_and_rescue,under,4.233682128060539,positive
+search_and_rescue,relief,4.087471721248009,positive
+search_and_rescue,alive,3.859866288848449,positive
+search_and_rescue,rescuers,3.8367700398344446,positive
+search_and_rescue,missing,3.5988272533159953,positive
+search_and_rescue,bodies,3.4768892155280042,positive
+search_and_rescue,evacuated,3.43932781181017,positive
+search_and_rescue,rescued,3.4097286141690515,positive
+search_and_rescue,help,3.3308251945932654,positive
+search_and_rescue,helicopters,3.2666126904739796,positive
+search_and_rescue,reach,3.2476099503950775,positive
+search_and_rescue,your,-1.8105991200352052,negative
+search_and_rescue,tent,-1.7922911864768312,negative
+search_and_rescue,need food,-1.7596698206772639,negative
+search_and_rescue,food,-1.7257330194859242,negative
+search_and_rescue,the,-1.6121831657840096,negative
+search_and_rescue,earthquake in,-1.5998683245855532,negative
+search_and_rescue,on,-1.5688328932988436,negative
+search_and_rescue,life,-1.5459785853403696,negative
+search_and_rescue,water and,-1.528343686718685,negative
+search_and_rescue,should,-1.525856705722564,negative
+search_and_rescue,is,-1.4698982574017447,negative
+search_and_rescue,countries,-1.4356144816361052,negative
+search_and_rescue,about,-1.4339826826413027,negative
+search_and_rescue,it,-1.3767422594518455,negative
+search_and_rescue,back,-1.3646817673746452,negative
+security,security,6.694066969039964,positive
+security,police,4.082273938011819,positive
+security,armed,3.9618055723398884,positive
+security,looting,3.3158749452473923,positive
+security,many,3.185082526867826,positive
+security,safety,3.073544163759061,positive
+security,and security,3.0401237788133546,positive
+security,violence,2.9508286517888087,positive
+security,security situation,2.919901172897383,positive
+security,chile,2.8002427721415617,positive
+security,insecurity,2.7133383821682044,positive
+security,in,2.6784026797309033,positive
+security,help,2.6691849395294147,positive
+security,10,2.524193828858564,positive
+security,groups,2.5138424420376895,positive
+security,has,-1.9237675060921475,negative
+security,school,-1.5314701023447592,negative
+security,first,-1.4116098484334674,negative
+security,it,-1.4071599156875585,negative
+security,never,-1.3448274192901049,negative
+security,thank,-1.342455195977812,negative
+security,street,-1.3389185424098788,negative
+security,earthquake in,-1.260066526365493,negative
+security,your,-1.226702267947937,negative
+security,back,-1.2222995516923936,negative
+security,can,-1.2041423484231109,negative
+security,the earthquake,-1.1433481764856068,negative
+security,central,-1.1418371550408415,negative
+security,still,-1.1385756667402585,negative
+security,thank you,-1.0969247256175272,negative
+military,military,7.767639768482991,positive
+military,soldiers,6.909517165259929,positive
+military,army,6.899338837307082,positive
+military,troops,6.0211788414212,positive
+military,armed,5.984362487833587,positive
+military,attack,5.763896850720703,positive
+military,terrorist,5.678618155502091,positive
+military,war,5.67853551854135,positive
+military,afghanistan,4.80536554770595,positive
+military,conflict,4.65608204257849,positive
+military,attacks,4.636977955187772,positive
+military,suicide,4.3380535388329475,positive
+military,fighting,4.153928570524033,positive
+military,civilians,4.090429333334955,positive
+military,police,3.8106823633718654,positive
+military,water,-2.574424237875543,negative
+military,food,-2.1124534571297255,negative
+military,rain,-1.8749591199764806,negative
+military,santiago,-1.8288209352705906,negative
+military,tents,-1.8232167340082879,negative
+military,my,-1.7944069590307636,negative
+military,you,-1.738943059276753,negative
+military,and the,-1.6929288450673525,negative
+military,what,-1.687842998612898,negative
+military,flood,-1.668588324729317,negative
+military,haiti,-1.590153740352086,negative
+military,medical,-1.5295830072036578,negative
+military,river,-1.5141138336083202,negative
+military,the earthquake,-1.4725023491236164,negative
+military,rains,-1.4173861632274511,negative
+water,water,23.493223776223832,positive
+water,thirst,6.192029628034677,positive
+water,water and,5.607715215687609,positive
+water,food water,5.530357593989971,positive
+water,thirsty,5.2157025664404015,positive
+water,food,4.333746052241673,positive
+water,need water,4.290665907170741,positive
+water,supplies,4.203356419232843,positive
+water,water food,4.123324252409631,positive
+water,and water,4.112376512856475,positive
+water,waters,3.7401848941923355,positive
+water,health,3.4844055094581603,positive
+water,we,3.299604761055343,positive
+water,tanks,3.2119633712275486,positive
+water,latrines,2.859980443700385,positive
+water,gallon,-2.3584149458982875,negative
+water,consumption,-2.0540835364441077,negative
+water,deep,-1.7498815184287448,negative
+water,should,-1.7409814346379295,negative
+water,are still,-1.7328663247755478,negative
+water,testing,-1.6859295829798029,negative
+water,the,-1.6498384396739119,negative
+water,how we,-1.6178132180388245,negative
+water,anything in,-1.6053447639679606,negative
+water,can,-1.5015696529174234,negative
+water,land,-1.4696320361956707,negative
+water,level,-1.4485120863536736,negative
+water,ll,-1.4176317815218227,negative
+water,water points,-1.4042576012088102,negative
+water,prepare,-1.3746614029425663,negative
+food,food,24.504353081689946,positive
+food,hungry,10.914604392588023,positive
+food,hunger,10.611182677464868,positive
+food,foods,8.430891318307516,positive
+food,starving,7.512644407727262,positive
+food,rice,7.128226427004286,positive
+food,eat,6.050325297794565,positive
+food,to eat,5.585564110597581,positive
+food,food and,4.797774089146884,positive
+food,are hungry,4.769975590851342,positive
+food,water,4.767621690216959,positive
+food,wfp,4.582061561818803,positive
+food,meals,4.522418096704188,positive
+food,feeding,4.1687623325003,positive
+food,rations,4.166424543523439,positive
+food,santiago,-2.26841878233511,negative
+food,non food,-2.2069287326975298,negative
+food,serve food,-2.140377124937218,negative
+food,tant,-2.018295372083727,negative
+food,to do,-1.8483998641586752,negative
+food,information,-1.8201739976113496,negative
+food,administrative,-1.8068145882024391,negative
+food,request,-1.779010564231039,negative
+food,quantity,-1.7580535106810304,negative
+food,canned food,-1.7032027652260027,negative
+food,and distribution,-1.695477157599674,negative
+food,food etc,-1.6929487666059073,negative
+food,out of,-1.619103110401941,negative
+food,police,-1.60740544863942,negative
+food,didn find,-1.5478910647412516,negative
+shelter,shelter,15.747635928938218,positive
+shelter,tents,15.153367904125654,positive
+shelter,tent,13.556504071406495,positive
+shelter,shelters,10.053489888544314,positive
+shelter,homeless,8.233480787265526,positive
+shelter,blankets,8.132772215797164,positive
+shelter,houses,6.96620012297667,positive
+shelter,housing,6.937433506204417,positive
+shelter,camps,6.43997734434467,positive
+shelter,house,6.385197071796335,positive
+shelter,sleeping,6.220442083299528,positive
+shelter,homes,4.7506622612936775,positive
+shelter,sheets,4.729859216244823,positive
+shelter,temporary,4.482491009724069,positive
+shelter,place,4.38946726688526,positive
+shelter,information,-2.4638921046067592,negative
+shelter,know if,-2.240284308642394,negative
+shelter,that the,-2.1006192443706495,negative
+shelter,hospital,-2.0441610106982635,negative
+shelter,and few,-1.8912025867615214,negative
+shelter,ll,-1.8455855693952936,negative
+shelter,security,-1.672521868400174,negative
+shelter,food in,-1.634889625234779,negative
+shelter,how,-1.6305707375604925,negative
+shelter,friends,-1.6219622609741662,negative
+shelter,doctor,-1.5879423638183334,negative
+shelter,of my,-1.5568603327519688,negative
+shelter,internet,-1.5533619843918662,negative
+shelter,there no,-1.5116060680979346,negative
+shelter,gas,-1.4927513633092435,negative
+clothing,clothing,13.296605112766056,positive
+clothing,clothes,11.270300432522681,positive
+clothing,blankets,6.11715452390605,positive
+clothing,underwear,4.579108389382481,positive
+clothing,and clothing,3.863380338187731,positive
+clothing,food,3.5806066596652872,positive
+clothing,shoes,3.524295437932749,positive
+clothing,clothing and,3.4414547238277144,positive
+clothing,gloves,3.370191154568791,positive
+clothing,towels,3.182925309181674,positive
+clothing,coats,2.871524043530685,positive
+clothing,pakistan,2.6843145318243624,positive
+clothing,jackets,2.6395826689484134,positive
+clothing,items,2.5956788139645997,positive
+clothing,village,2.59558488295065,positive
+clothing,the,-1.9008482768025916,negative
+clothing,that,-1.3564941696276533,negative
+clothing,at,-1.2543385253790342,negative
+clothing,will,-1.231984971126359,negative
+clothing,what can,-1.1353757055876417,negative
+clothing,work,-1.0610473780110876,negative
+clothing,water food,-1.0390546999940804,negative
+clothing,what,-1.0145508110764658,negative
+clothing,need help,-0.9711599058810866,negative
+clothing,very,-0.9632538391053219,negative
+clothing,nothing,-0.9477522673099467,negative
+clothing,and also,-0.9451187667233317,negative
+clothing,people in,-0.9327872566339849,negative
+clothing,and few,-0.9279464755945002,negative
+clothing,cook,-0.8931042695423906,negative
+money,money,11.414858908014859,positive
+money,relief,7.077879399324756,positive
+money,donations,7.049929312897806,positive
+money,million,6.096905690622554,positive
+money,donate,6.01790382232175,positive
+money,cash,5.936605689567054,positive
+money,donation,5.885899791952645,positive
+money,funds,5.097387008216183,positive
+money,fund,4.634937376364209,positive
+money,contributions,3.990640317778204,positive
+money,donor,3.9211835148269114,positive
+money,000,3.816557438334606,positive
+money,fundraising,3.759274572956089,positive
+money,to,3.5415707043513973,positive
+money,aid,3.4498156074367015,positive
+money,information,-1.8902088592196615,negative
+money,he,-1.687543944658226,negative
+money,time,-1.6194873858605876,negative
+money,an,-1.4740532491286225,negative
+money,we need,-1.473054845011292,negative
+money,etc,-1.4457158315300043,negative
+money,about,-1.4335866981177772,negative
+money,it,-1.3289699603359786,negative
+money,power,-1.263172795205457,negative
+money,good,-1.2616358951382243,negative
+money,there are,-1.2605693657110404,negative
+money,to know,-1.2320508498714937,negative
+money,have money,-1.1873722625045973,negative
+money,message,-1.166500583501406,negative
+money,clothing,-1.1660374559619697,negative
+missing_people,missing,11.465658094929342,positive
+missing_people,search,3.279163958649789,positive
+missing_people,alive,3.256255374013133,positive
+missing_people,dead,3.2360176236870624,positive
+missing_people,still,2.9036756081900768,positive
+missing_people,people,2.9015504598392945,positive
+missing_people,missing after,2.829988558354849,positive
+missing_people,no,2.7632330578541318,positive
+missing_people,missing in,2.722974600909224,positive
+missing_people,family,2.6774582035602794,positive
+missing_people,or,2.67266235615829,positive
+missing_people,lost,2.6360709708113887,positive
+missing_people,lost my,2.2647904058441246,positive
+missing_people,another earthquake,2.261501845164905,positive
+missing_people,up on,2.2590392979258547,positive
+missing_people,food,-1.923056098641781,negative
+missing_people,do,-1.8887873681442284,negative
+missing_people,when,-1.489610893057922,negative
+missing_people,is,-1.4111793741830436,negative
+missing_people,rt,-1.2628169207891964,negative
+missing_people,job,-1.2419891177746574,negative
+missing_people,shelter,-1.2041231818617648,negative
+missing_people,to,-1.1588502836461427,negative
+missing_people,it,-1.1553243178616233,negative
+missing_people,also,-1.1517168875413406,negative
+missing_people,what,-1.147453501463824,negative
+missing_people,with the,-1.0948008825809523,negative
+missing_people,on the,-1.0942216821098256,negative
+missing_people,school,-1.0450145965253463,negative
+missing_people,information,-1.042602705139745,negative
+refugees,displaced,12.273811378605355,positive
+refugees,refugees,10.947186893961987,positive
+refugees,refugee,6.991833739595521,positive
+refugees,evacuated,5.29122147216226,positive
+refugees,displacement,4.992174621654463,positive
+refugees,camps,4.967517591975154,positive
+refugees,shelters,4.753996149037408,positive
+refugees,evacuation,4.302457007822939,positive
+refugees,idps,4.16694922708396,positive
+refugees,survivors,4.119895549704957,positive
+refugees,relocation,3.978322302371649,positive
+refugees,evacuating,3.8847625038709537,positive
+refugees,unhcr,3.577991780092713,positive
+refugees,camp,3.5570508044527953,positive
+refugees,idp,3.491122172538785,positive
+refugees,all the,-1.8465627608515318,negative
+refugees,the country,-1.6764340063641312,negative
+refugees,get,-1.6177843696141874,negative
+refugees,hungry,-1.5399574838050372,negative
+refugees,please,-1.531240483712855,negative
+refugees,injured,-1.5105653341818839,negative
+refugees,hospital,-1.4980733832280178,negative
+refugees,poor,-1.4669710364201527,negative
+refugees,to know,-1.457070558931719,negative
+refugees,notes,-1.4458080097780666,negative
+refugees,also,-1.4010376772264344,negative
+refugees,would,-1.3982153933836579,negative
+refugees,got,-1.3854153943305691,negative
+refugees,national,-1.2317983237062355,negative
+refugees,small,-1.2317815827274634,negative
+death,dead,12.346604272471529,positive
+death,killed,11.743703582426223,positive
+death,died,9.813520742366713,positive
+death,death,8.719576004767493,positive
+death,killing,8.687586221291905,positive
+death,deaths,8.433379898275632,positive
+death,bodies,7.50713569963873,positive
+death,people,6.395685699744063,positive
+death,lives,5.57570190952183,positive
+death,dying,5.57315467411566,positive
+death,die,5.239058149979544,positive
+death,corpses,4.775664480632864,positive
+death,death toll,4.431996448113212,positive
+death,toll,4.357898488235896,positive
+death,casualties,4.129570415079985,positive
+death,information,-2.3000565250377574,negative
+death,god,-1.8346636692679898,negative
+death,will,-1.8120458319962054,negative
+death,with the,-1.737017197978468,negative
+death,get,-1.7363840521127893,negative
+death,on the,-1.6899584492466895,negative
+death,tents,-1.6739680026425159,negative
+death,the people,-1.6559377554383838,negative
+death,information about,-1.637459694670517,negative
+death,food,-1.6260107615893928,negative
+death,of hunger,-1.5627664609286323,negative
+death,would,-1.5387490880942167,negative
+death,international,-1.442935389434803,negative
+death,for the,-1.4102936856670338,negative
+death,are in,-1.3598808292832683,negative
+other_aid,help,9.179545274137492,positive
+other_aid,aid,8.949830397433043,positive
+other_aid,supplies,4.942185418418294,positive
+other_aid,emergency,4.810415484022535,positive
+other_aid,disaster,4.409248116444389,positive
+other_aid,victim,4.169868270280883,positive
+other_aid,victims,3.948489731458998,positive
+other_aid,needs,3.8424635015992408,positive
+other_aid,earthquake,3.83392903452208,positive
+other_aid,the earthquakes,3.7742596704957347,positive
+other_aid,power,3.6009252901812925,positive
+other_aid,flashlights,3.573185029204871,positive
+other_aid,goods,3.489919740950926,positive
+other_aid,assistance,3.3905125506239053,positive
+other_aid,forest,3.3541643209945207,positive
+other_aid,food,-3.5288738342361885,negative
+other_aid,money,-3.2915120496002435,negative
+other_aid,his,-2.6996319523860612,negative
+other_aid,medical,-2.693454019840764,negative
+other_aid,food in,-2.6239048597434955,negative
+other_aid,are hungry,-2.487500751269299,negative
+other_aid,he,-2.3164983667197547,negative
+other_aid,food we,-2.2193729030529115,negative
+other_aid,relief fund,-2.2179782104391035,negative
+other_aid,live in,-2.2094207380206807,negative
+other_aid,houses,-2.1926577472459132,negative
+other_aid,me find,-2.160708600328802,negative
+other_aid,political,-2.1320278330097726,negative
+other_aid,doctor,-2.1220089760796172,negative
+other_aid,medication,-2.103442188790159,negative
+infrastructure_related,hospital,7.10102435313728,positive
+infrastructure_related,schools,5.459769933389427,positive
+infrastructure_related,destroyed,5.353716430514463,positive
+infrastructure_related,infrastructure,4.862559066628169,positive
+infrastructure_related,collapsed,4.321909138729435,positive
+infrastructure_related,devastation,4.1097814699661415,positive
+infrastructure_related,school,3.8584870216419653,positive
+infrastructure_related,reconstruction,3.8065775430272057,positive
+infrastructure_related,damage,3.8018696743955838,positive
+infrastructure_related,rebuilding,3.613915595633362,positive
+infrastructure_related,camps,3.3625992276095267,positive
+infrastructure_related,cracked,3.3034059169965406,positive
+infrastructure_related,flood,3.1790040648114637,positive
+infrastructure_related,damaged,3.120587619383287,positive
+infrastructure_related,nearby,3.0900409066355907,positive
+infrastructure_related,group,-2.146000631033874,negative
+infrastructure_related,this year,-2.066275738093584,negative
+infrastructure_related,information,-1.8661318791687431,negative
+infrastructure_related,countries,-1.8345894246272747,negative
+infrastructure_related,malaria,-1.7535552077270646,negative
+infrastructure_related,notes,-1.7381051046493101,negative
+infrastructure_related,section,-1.6811259526623306,negative
+infrastructure_related,cannot,-1.6633699324561981,negative
+infrastructure_related,is there,-1.656057221012485,negative
+infrastructure_related,what,-1.6513387306143057,negative
+infrastructure_related,distribute,-1.6343651444210243,negative
+infrastructure_related,trained,-1.6330452830626168,negative
+infrastructure_related,go,-1.6268871165427383,negative
+infrastructure_related,people are,-1.5899292396467222,negative
+infrastructure_related,should,-1.584341094624003,negative
+transport,roads,10.656343022019318,positive
+transport,road,7.7760785284041525,positive
+transport,bridges,6.179349001236918,positive
+transport,bridge,5.6493580553223675,positive
+transport,rail,4.519116039971896,positive
+transport,train,4.3897827903586135,positive
+transport,transport,4.38244713897186,positive
+transport,blocked,4.1067786783676254,positive
+transport,transportation,3.9306883547857727,positive
+transport,stranded,3.4634532006763417,positive
+transport,away,3.4410248053571624,positive
+transport,roads and,3.3924925821354672,positive
+transport,landslides,3.3551013847765354,positive
+transport,highway,3.1593833588308784,positive
+transport,impassable,3.1460632653779226,positive
+transport,are in,-2.0941837179642757,negative
+transport,its,-1.9347420915283322,negative
+transport,16,-1.7609037567029378,negative
+transport,region,-1.7097353099585995,negative
+transport,you,-1.6616248291844273,negative
+transport,very,-1.5615479715942036,negative
+transport,school,-1.5506638169717029,negative
+transport,information,-1.5458871659323894,negative
+transport,normal,-1.4963433340399914,negative
+transport,with the,-1.4882655343741475,negative
+transport,she,-1.455228538426313,negative
+transport,time,-1.4228510649283046,negative
+transport,continue,-1.3892151471774377,negative
+transport,in the,-1.3602867773599854,negative
+transport,sent,-1.339936222588124,negative
+buildings,destroyed,10.174780216097352,positive
+buildings,houses,9.906788447416202,positive
+buildings,buildings,9.686742780759438,positive
+buildings,homes,9.320599932780434,positive
+buildings,collapsed,9.067141950313609,positive
+buildings,house,8.175612340263179,positive
+buildings,damaged,6.40130421883972,positive
+buildings,home,5.625764814939364,positive
+buildings,building,4.884268384855816,positive
+buildings,rubble,4.877758918257836,positive
+buildings,damage,4.806535119106027,positive
+buildings,homeless,4.544715944705671,positive
+buildings,cracked,4.313686293607724,positive
+buildings,roofs,4.110506437856272,positive
+buildings,collapses,4.002610516784774,positive
+buildings,emergency,-1.9786889650899486,negative
+buildings,you,-1.9635752905544377,negative
+buildings,food,-1.7681675861911448,negative
+buildings,information,-1.7422379283918907,negative
+buildings,message,-1.7317329901578669,negative
+buildings,enter,-1.6882406988743976,negative
+buildings,sunday,-1.687465256103703,negative
+buildings,provinces,-1.5856945637375215,negative
+buildings,can,-1.5294436513824674,negative
+buildings,cannot,-1.5058168222535115,negative
+buildings,meet,-1.4594463201237804,negative
+buildings,like,-1.4475349171868708,negative
+buildings,say,-1.4464289759721731,negative
+buildings,better,-1.407999883594683,negative
+buildings,experts,-1.382174093961312,negative
+electricity,power,13.67110142691446,positive
+electricity,electricity,10.269376208488486,positive
+electricity,electric,5.268989594439238,positive
+electricity,blackout,4.373328556853983,positive
+electricity,generators,4.325663009058283,positive
+electricity,and,4.093310800842226,positive
+electricity,lines,3.96000215063328,positive
+electricity,lights,3.933265451151393,positive
+electricity,roads,3.627618393898616,positive
+electricity,flashlights,3.382831264420249,positive
+electricity,electrical,3.3525793457706357,positive
+electricity,telecommunications,3.3382360459748575,positive
+electricity,communications,3.206420606759491,positive
+electricity,cut,3.021051641438547,positive
+electricity,and electric,2.9584392068182366,positive
+electricity,street,-1.812678804785195,negative
+electricity,hope,-1.4347468445714306,negative
+electricity,how,-1.4230391845359334,negative
+electricity,what,-1.3107918339186284,negative
+electricity,by,-1.2095513239429778,negative
+electricity,teams,-1.1595811794455162,negative
+electricity,can,-1.0754121996685335,negative
+electricity,because have,-1.0679692302472166,negative
+electricity,this,-1.0546205298836837,negative
+electricity,have power,-1.0493490981629037,negative
+electricity,see,-1.0456988995602128,negative
+electricity,help us,-1.044316993519018,negative
+electricity,rather,-1.0396003992608722,negative
+electricity,lost power,-1.034045794695209,negative
+electricity,officially,-1.0320121525832893,negative
+tools,equipment,5.854059739585274,positive
+tools,tools,3.6153949007819546,positive
+tools,bulldozers,3.53285176232432,positive
+tools,and,2.4314972613208585,positive
+tools,items,2.2993049662977545,positive
+tools,tools and,2.2979318765474903,positive
+tools,whether,2.279387965004382,positive
+tools,machinery,2.2728939798950463,positive
+tools,me have,2.2496634183479762,positive
+tools,will,2.2388002465338483,positive
+tools,kits,2.2250974664350918,positive
+tools,right,2.168139458094472,positive
+tools,sheets,2.0076084400829544,positive
+tools,needed,2.0062757959977624,positive
+tools,and tools,1.9582200844205842,positive
+tools,this,-1.4120103168877682,negative
+tools,you,-1.0973494574637284,negative
+tools,the earthquake,-1.0764081020066936,negative
+tools,we are,-1.0626863943777192,negative
+tools,over,-1.0523507288211165,negative
+tools,us,-0.9781062094599751,negative
+tools,find,-0.9174484650375394,negative
+tools,any,-0.8685051841833332,negative
+tools,what,-0.8342404678899151,negative
+tools,if,-0.8293158064993783,negative
+tools,don,-0.8244326960255551,negative
+tools,new,-0.8008101632059355,negative
+tools,am,-0.800757427353709,negative
+tools,water and,-0.7988727474332955,negative
+tools,thank,-0.762359636922425,negative
+hospitals,hospital,11.213512777373746,positive
+hospitals,hospitals,5.384420499940238,positive
+hospitals,health,5.093908341862636,positive
+hospitals,the hospital,3.931775700538331,positive
+hospitals,clinics,3.1172940332758587,positive
+hospitals,schools,2.7710266089396214,positive
+hospitals,facilities,2.700538982521779,positive
+hospitals,centres,2.684230690412914,positive
+hospitals,medical,2.646537663902157,positive
+hospitals,reported,2.4949236242672423,positive
+hospitals,outbreak,2.4786030688718688,positive
+hospitals,center,2.472980120668221,positive
+hospitals,building,2.2536944903550196,positive
+hospitals,sandy,2.1903834169632574,positive
+hospitals,communicable diseases,2.156025904791055,positive
+hospitals,it,-1.7386173157351592,negative
+hospitals,what,-1.612908600814329,negative
+hospitals,am,-1.5902257534420237,negative
+hospitals,but,-1.5146958177712493,negative
+hospitals,haiti,-1.3012543833521806,negative
+hospitals,our,-1.2765089619855177,negative
+hospitals,us,-1.2570835001861507,negative
+hospitals,food,-1.2342874918318,negative
+hospitals,au,-1.1112381046899338,negative
+hospitals,support,-1.1070763176457363,negative
+hospitals,cap,-1.0287398714404683,negative
+hospitals,know,-1.011011374838608,negative
+hospitals,can,-0.9965386893431266,negative
+hospitals,some,-0.9800435698395136,negative
+hospitals,near,-0.9744104035647444,negative
+shops,shops,3.267978353149916,positive
+shops,stores,2.668735301985073,positive
+shops,open,2.6064387278325585,positive
+shops,food,2.5183374962801874,positive
+shops,homes,2.2612930967601454,positive
+shops,whole,2.2487770802064686,positive
+shops,still,2.168228256342772,positive
+shops,closed,2.140540991203172,positive
+shops,in the,1.9910042692818477,positive
+shops,debris,1.9644721172736472,positive
+shops,shop,1.8810270938223606,positive
+shops,could be,1.8493582251829352,positive
+shops,here,1.8352457885588565,positive
+shops,tent,1.8270386818610136,positive
+shops,having,1.798965405032831,positive
+shops,do,-0.9955045913947369,negative
+shops,are in,-0.8542070133047124,negative
+shops,would,-0.8258652542281061,negative
+shops,information,-0.7999935647334632,negative
+shops,the country,-0.7345572271355676,negative
+shops,about,-0.718858381349629,negative
+shops,how,-0.7021051979608656,negative
+shops,thank,-0.6936835537194497,negative
+shops,for the,-0.6562006368578722,negative
+shops,there are,-0.6531147619195169,negative
+shops,some,-0.6379407677525443,negative
+shops,thanks,-0.627228490992589,negative
+shops,thank you,-0.6255655264413521,negative
+shops,give,-0.6025707258810015,negative
+shops,like to,-0.6023059697964099,negative
+aid_centers,schools,8.030872570738588,positive
+aid_centers,school,7.510175336715612,positive
+aid_centers,shelter,4.732537910675205,positive
+aid_centers,centers,4.342343760533791,positive
+aid_centers,makeshift,4.096724479774203,positive
+aid_centers,camps,3.6182457773034518,positive
+aid_centers,schools and,3.1694168786408867,positive
+aid_centers,shelters,3.1344970291431906,positive
+aid_centers,centre,3.03349336564448,positive
+aid_centers,temporary,2.9459134321299554,positive
+aid_centers,adequate,2.7972414580156673,positive
+aid_centers,residents,2.6477782969695927,positive
+aid_centers,my school,2.6353265827851664,positive
+aid_centers,health,2.594895980811101,positive
+aid_centers,nearby,2.5640026495709094,positive
+aid_centers,country,-1.4825556274493945,negative
+aid_centers,with,-1.4512519695010189,negative
+aid_centers,information,-1.3622397217124684,negative
+aid_centers,how,-1.2875126140027908,negative
+aid_centers,am,-1.2281598666775002,negative
+aid_centers,for,-1.1566272949903424,negative
+aid_centers,out,-1.106375013343327,negative
+aid_centers,the country,-1.0541030563854552,negative
+aid_centers,an,-1.0364815667714224,negative
+aid_centers,year,-1.011208343231911,negative
+aid_centers,one,-0.9669781187852012,negative
+aid_centers,notes,-0.9527316389501518,negative
+aid_centers,should,-0.9258983582677807,negative
+aid_centers,me,-0.91213524465329,negative
+aid_centers,thanks,-0.9031179856468894,negative
+other_infrastructure,infrastructure,5.257396128716507,positive
+other_infrastructure,collapsed,4.657696749829813,positive
+other_infrastructure,destroyed,4.377823063992091,positive
+other_infrastructure,devastation,4.372449799960557,positive
+other_infrastructure,reconstruction,4.117644058404967,positive
+other_infrastructure,damage,3.856542072803504,positive
+other_infrastructure,lost,3.633900246231731,positive
+other_infrastructure,damaged,3.535756522997335,positive
+other_infrastructure,house,3.39721600960874,positive
+other_infrastructure,flood,3.3861257301075356,positive
+other_infrastructure,blew,3.3428301969099192,positive
+other_infrastructure,caused,3.3059915014088865,positive
+other_infrastructure,home,3.275506883011097,positive
+other_infrastructure,structures,3.2414429543361836,positive
+other_infrastructure,rebuilding,3.175011328552072,positive
+other_infrastructure,who,-2.801025999024802,negative
+other_infrastructure,already,-2.397483587079564,negative
+other_infrastructure,me,-1.8159767959741309,negative
+other_infrastructure,countries,-1.7167706747538094,negative
+other_infrastructure,un,-1.69847014178734,negative
+other_infrastructure,hospital,-1.6812768671573033,negative
+other_infrastructure,you,-1.6105232184590088,negative
+other_infrastructure,dead,-1.5507858812530988,negative
+other_infrastructure,temperatures,-1.5431348525974051,negative
+other_infrastructure,malaria,-1.4649628665207528,negative
+other_infrastructure,department,-1.4576452085098661,negative
+other_infrastructure,is not,-1.4490807723843688,negative
+other_infrastructure,information,-1.4459182891296825,negative
+other_infrastructure,blankets,-1.4297566129912196,negative
+other_infrastructure,world,-1.411221661867358,negative
+weather_related,earthquake,18.34661154705582,positive
+weather_related,flood,13.663717594491189,positive
+weather_related,floods,10.233001282270456,positive
+weather_related,tsunami,9.886951889888705,positive
+weather_related,quake,9.390095083022109,positive
+weather_related,rain,9.009816553039315,positive
+weather_related,hurricane,8.153437824880559,positive
+weather_related,earthquakes,8.008518988095695,positive
+weather_related,rains,7.978220590775428,positive
+weather_related,the earthquake,7.869443118199665,positive
+weather_related,flooding,7.86429456091855,positive
+weather_related,storm,7.806731499659321,positive
+weather_related,aftershocks,7.17403937478799,positive
+weather_related,drought,7.076650568615891,positive
+weather_related,hurricanesandy,6.555731210428497,positive
+weather_related,job,-2.8935993164298863,negative
+weather_related,do it,-2.7665037309917406,negative
+weather_related,party,-2.661502600952942,negative
+weather_related,the risk,-2.4458750832444194,negative
+weather_related,improved,-2.397764013743706,negative
+weather_related,school,-2.321490655008121,negative
+weather_related,cost,-2.2835406531518894,negative
+weather_related,elections,-2.1683901194799935,negative
+weather_related,refugees,-2.1569965361190064,negative
+weather_related,ship,-2.149372518948931,negative
+weather_related,attacks,-2.109874434432596,negative
+weather_related,service,-2.101913228371353,negative
+weather_related,why,-2.0768375760042144,negative
+weather_related,us in,-2.0531723927259624,negative
+weather_related,you,-2.03287639652984,negative
+floods,flood,18.858793052773464,positive
+floods,floods,16.708056704073964,positive
+floods,flooding,14.724795562027172,positive
+floods,tsunami,10.86347068227164,positive
+floods,flooded,8.958322205818158,positive
+floods,floodwaters,5.8760416087420895,positive
+floods,inundated,5.201018994007821,positive
+floods,rains,4.455116952412844,positive
+floods,inundation,4.43949717911987,positive
+floods,waters,4.254937087708861,positive
+floods,river,3.87618025483341,positive
+floods,the flood,3.7867215306657873,positive
+floods,floodwater,3.640480370838707,positive
+floods,the floods,3.6381603338179063,positive
+floods,rivers,3.615884209595814,positive
+floods,team,-2.3348340966098577,negative
+floods,cost,-1.8428598873732205,negative
+floods,yet,-1.7744602492123032,negative
+floods,injured,-1.7158076545529022,negative
+floods,zone,-1.6451381587068536,negative
+floods,help in,-1.5928789337592304,negative
+floods,who,-1.5760637281627197,negative
+floods,never,-1.5755604013208862,negative
+floods,how much,-1.5685007014544887,negative
+floods,information,-1.5538591162092394,negative
+floods,province,-1.5356431228556446,negative
+floods,food,-1.527303508733141,negative
+floods,day,-1.5032527884954656,negative
+floods,international,-1.4597409621791868,negative
+floods,conflict,-1.4564126319775383,negative
+storm,rain,13.885282590897482,positive
+storm,rains,12.450025618395317,positive
+storm,storm,11.785712453866063,positive
+storm,cyclone,10.492945224228395,positive
+storm,hurricane,10.449091797736934,positive
+storm,tsunami,8.936247493875477,positive
+storm,storms,8.053277852039228,positive
+storm,hurricanesandy,7.874209008827273,positive
+storm,sandy,7.518281961747403,positive
+storm,typhoon,6.5808990060979795,positive
+storm,winds,6.068054866989117,positive
+storm,the rain,5.6656774325137915,positive
+storm,heavy,5.596237959410639,positive
+storm,rainfall,5.415408355676114,positive
+storm,cyclon,4.7833098009671104,positive
+storm,santiago,-2.1960820013958804,negative
+storm,earthquake,-2.1652972779891955,negative
+storm,party,-2.148985351178137,negative
+storm,that it,-2.1281455583056825,negative
+storm,the floods,-2.029814182551597,negative
+storm,job,-2.0141260305992534,negative
+storm,go,-1.9250374734919065,negative
+storm,might,-1.8976969724628239,negative
+storm,market,-1.8783367433251659,negative
+storm,downtown,-1.876045817876635,negative
+storm,use,-1.8645421550817138,negative
+storm,abuse,-1.7515186279555446,negative
+storm,like to,-1.7298936876200666,negative
+storm,country,-1.7109921731059616,negative
+storm,aftershocks,-1.6971671389863963,negative
+fire,fires,9.68067697185007,positive
+fire,fire,9.492970080199921,positive
+fire,forest,4.044994216462547,positive
+fire,wildfire,3.9837212005596614,positive
+fire,wildfires,3.5097285818208355,positive
+fire,eruption,2.8887637077290926,positive
+fire,russia,2.806557313831105,positive
+fire,burning,2.73162235148742,positive
+fire,ripped,2.3191735429668645,positive
+fire,to the,2.311071061567488,positive
+fire,spread,2.3099209907457583,positive
+fire,in,2.243108754726006,positive
+fire,the fires,2.2346326928946865,positive
+fire,volcano,2.210892265116346,positive
+fire,highly,2.132701142747772,positive
+fire,you,-2.172973523113589,negative
+fire,do,-1.1858955791907988,negative
+fire,may,-1.1520793611241007,negative
+fire,are,-1.1171517484096503,negative
+fire,us,-1.093369009746193,negative
+fire,many,-1.0823022545283212,negative
+fire,earthquake,-1.0595432482482032,negative
+fire,for the,-1.0565545316638605,negative
+fire,the earthquake,-1.036718461781011,negative
+fire,santiago,-1.0317790239070004,negative
+fire,about,-0.9747630103996935,negative
+fire,the natural,-0.9491803099628519,negative
+fire,ecosystems,-0.9464349552212373,negative
+fire,we need,-0.9177746127241792,negative
+fire,will,-0.8853882765471864,negative
+earthquake,earthquake,25.65591353722963,positive
+earthquake,quake,14.438383760351854,positive
+earthquake,earthquakes,11.782263104339865,positive
+earthquake,aftershocks,9.687426037925416,positive
+earthquake,the earthquake,8.373048134189784,positive
+earthquake,aftershock,7.122366702118239,positive
+earthquake,tremors,6.116828345099462,positive
+earthquake,tsunami,6.084683333874666,positive
+earthquake,quakes,6.031730253595478,positive
+earthquake,the quake,5.821367668836176,positive
+earthquake,magnitude,5.525258425161735,positive
+earthquake,seismic,4.915949506587639,positive
+earthquake,buildings,4.359858307558002,positive
+earthquake,tremor,4.289000119198398,positive
+earthquake,richter,4.022109083486205,positive
+earthquake,rest,-2.295762733764847,negative
+earthquake,devastated by,-2.1953657691863477,negative
+earthquake,street,-2.069266774274919,negative
+earthquake,flood,-1.8661150417619539,negative
+earthquake,reports,-1.758699277027093,negative
+earthquake,thought,-1.745518571400553,negative
+earthquake,rains,-1.730571303199086,negative
+earthquake,27th,-1.6363530987534793,negative
+earthquake,do it,-1.63148267486495,negative
+earthquake,cultural,-1.6298355599560495,negative
+earthquake,food,-1.6093442296631773,negative
+earthquake,answer,-1.5843098895138068,negative
+earthquake,house is,-1.5607788936338831,negative
+earthquake,can have,-1.5566487521806998,negative
+earthquake,flooding,-1.5458002955903687,negative
+cold,snow,12.882190957008596,positive
+cold,cold,10.6716212918095,positive
+cold,winter,9.609491120941824,positive
+cold,snowfall,5.817251935191532,positive
+cold,weather,5.629546563189161,positive
+cold,temperatures,5.114315652448157,positive
+cold,freezing,5.0416681130198935,positive
+cold,frost,3.8361749548305717,positive
+cold,winters,3.665127656435302,positive
+cold,cold weather,3.6274667290364806,positive
+cold,warm,3.1893034467272425,positive
+cold,winterized,3.0376358152406175,positive
+cold,tents,2.9814097006415397,positive
+cold,as,2.916702766900395,positive
+cold,the snow,2.8769332725039884,positive
+cold,food,-2.6204123512123263,negative
+cold,am,-2.018952824138569,negative
+cold,water,-1.8384185634870525,negative
+cold,what,-1.6114066103979017,negative
+cold,you,-1.4149273969707843,negative
+cold,if,-1.360856712202888,negative
+cold,wave,-1.3331652755429027,negative
+cold,go,-1.320298677184525,negative
+cold,said,-1.254418175062844,negative
+cold,river,-1.2053218004807422,negative
+cold,give,-1.1929641866545462,negative
+cold,he,-1.095591530483138,negative
+cold,the earthquake,-1.0829471625877436,negative
+cold,may,-1.081456300139349,negative
+cold,know,-1.0771082995670487,negative
+other_weather,drought,10.989361942844422,positive
+other_weather,tsunami,8.240960870229932,positive
+other_weather,droughts,5.641621150495584,positive
+other_weather,eruption,5.197386357827432,positive
+other_weather,volcano,4.914633552691221,positive
+other_weather,disaster,4.532166269418459,positive
+other_weather,tsunamis,4.265068299416133,positive
+other_weather,weather,4.243866575324746,positive
+other_weather,lava,4.086632387317084,positive
+other_weather,volcanic,4.056500241020869,positive
+other_weather,landslide,4.005682494091397,positive
+other_weather,the tsunami,3.8764048981889476,positive
+other_weather,hurricane,3.8143865327709143,positive
+other_weather,climate,3.5829332149826967,positive
+other_weather,mudslides,3.529449891889146,positive
+other_weather,earthquake,-2.5992274409823244,negative
+other_weather,quake,-2.277966992248196,negative
+other_weather,flood,-2.1640576742079474,negative
+other_weather,floods,-1.9681129338480874,negative
+other_weather,storm,-1.9086542805473525,negative
+other_weather,notes,-1.9057465900789066,negative
+other_weather,this year,-1.7859301626466337,negative
+other_weather,you,-1.77239346759129,negative
+other_weather,need,-1.7235127542050597,negative
+other_weather,job,-1.7172708081003598,negative
+other_weather,expected to,-1.7086816137681264,negative
+other_weather,would,-1.6434576366502238,negative
+other_weather,sent,-1.6112322429644255,negative
+other_weather,is the,-1.587602809320085,negative
+other_weather,government,-1.574591955712678,negative
+direct_report,we,7.345392855268534,positive
+direct_report,tent,5.872768848638214,positive
+direct_report,help,5.644687096887049,positive
+direct_report,victim,4.705035808088939,positive
+direct_report,food,4.650833135509873,positive
+direct_report,us,4.045357109068336,positive
+direct_report,am,4.001377914445145,positive
+direct_report,our,3.933781883369546,positive
+direct_report,here,3.9122281189915964,positive
+direct_report,need,3.877239369343479,positive
+direct_report,we are,3.785161442972482,positive
+direct_report,my,3.7656306087875437,positive
+direct_report,tents,3.689432112388211,positive
+direct_report,aid,3.469009946187797,positive
+direct_report,we need,3.408773415674188,positive
+direct_report,job,-4.021283063708622,negative
+direct_report,said,-3.894742818802434,negative
+direct_report,earthquake in,-3.324029680932301,negative
+direct_report,that the,-2.861530817591186,negative
+direct_report,because they,-2.6473130252544443,negative
+direct_report,2nd,-2.635254902669303,negative
+direct_report,information,-2.579649042786003,negative
+direct_report,site,-2.557122527749484,negative
+direct_report,including,-2.5090846782928047,negative
+direct_report,incomplete,-2.3578457173297505,negative
+direct_report,notes,-2.318122508381809,negative
+direct_report,using,-2.30408554968326,negative
+direct_report,but we,-2.2622124498571843,negative
+direct_report,visa,-2.2600227096168592,negative
+direct_report,country,-2.1739666011834453,negative

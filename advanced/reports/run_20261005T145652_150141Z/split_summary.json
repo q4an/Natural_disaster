@@ -1,0 +1,48 @@
+{
+  "rows": {
+    "development": 15555,
+    "validation": 5185,
+    "test": 5186
+  },
+  "pairwise_group_overlap": 0,
+  "labels": [
+    "related",
+    "request",
+    "offer",
+    "aid_related",
+    "medical_help",
+    "medical_products",
+    "search_and_rescue",
+    "security",
+    "military",
+    "water",
+    "food",
+    "shelter",
+    "clothing",
+    "money",
+    "missing_people",
+    "refugees",
+    "death",
+    "other_aid",
+    "infrastructure_related",
+    "transport",
+    "buildings",
+    "electricity",
+    "tools",
+    "hospitals",
+    "shops",
+    "aid_centers",
+    "other_infrastructure",
+    "weather_related",
+    "floods",
+    "storm",
+    "fire",
+    "earthquake",
+    "cold",
+    "other_weather",
+    "direct_report"
+  ],
+  "excluded_constant_development_labels": [
+    "child_alone"
+  ]
+}

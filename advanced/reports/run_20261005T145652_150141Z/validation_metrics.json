@@ -1,0 +1,19 @@
+{
+  "default_0_5": {
+    "micro_f1": 0.6694356395963129,
+    "macro_f1": 0.33744511510890973,
+    "micro_precision": 0.801448137485824,
+    "micro_recall": 0.5747622622622622,
+    "hamming_loss": 0.04999586719933875,
+    "subset_accuracy": 0.28813886210221795
+  },
+  "tuned": {
+    "micro_f1": 0.6881726913684464,
+    "macro_f1": 0.49357317604800854,
+    "micro_precision": 0.6641256910096014,
+    "micro_recall": 0.7140265265265265,
+    "hamming_loss": 0.05699407631905221,
+    "subset_accuracy": 0.25033751205400195
+  },
+  "note": "Thresholds were selected on this validation set; tuned scores are optimistic selection results."
+}
